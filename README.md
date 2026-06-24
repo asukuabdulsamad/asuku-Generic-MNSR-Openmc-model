@@ -1,2 +1,2 @@
-# Asuku-tutorials
-Tutorials on OpenMC
+# asuku projecrs
+Tutorials on OpenMC generic MNSR Model
